@@ -1,1 +1,7 @@
-
+git config --global.user.name "Reinaldareniswatihalawa"
+git config --global.user.email "reinaldareniswatihalawa"
+git init
+git add.
+git commit -m "tag commit submission 1 "
+git remote add orogin https://github.com/olman30/order-test.git
+git push origin master
